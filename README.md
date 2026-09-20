@@ -1,6 +1,6 @@
-# PairRail
+# PairRail `.github`
 
-Seller-side commercial infrastructure for machine customers.
+Org profile and shared GitHub metadata for [PairRail](https://github.com/PairRail).
 
-- Website: https://pairrail.com
-
+- Org profile: [`profile/README.md`](./profile/README.md) (shown on https://github.com/PairRail)
+- Public reference: [PairRail/agent-commerce](https://github.com/PairRail/agent-commerce)
