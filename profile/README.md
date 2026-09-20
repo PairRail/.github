@@ -16,4 +16,3 @@ Atlas (the product codebase) stays private. Public repos here are for engineers,
 ## Contact
 
 - Support: [support@pairrail.com](mailto:support@pairrail.com)
-- Book a founder call: [book.pairrail.com](https://book.pairrail.com)
