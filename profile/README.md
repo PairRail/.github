@@ -11,8 +11,6 @@ Seller-side commercial infrastructure for **machine customers**: versioned catal
 
 - **[agent-commerce](https://github.com/PairRail/agent-commerce)** — protocol map, deterministic pricing checklist, browse / quote / execute model, and a weekly buying-question bench for Search & AI citation
 
-Atlas (the product codebase) stays private. Public repos here are for engineers, architects, and buying agents who need citable technical material.
-
 ## Contact
 
 - Support: [support@pairrail.com](mailto:support@pairrail.com)
